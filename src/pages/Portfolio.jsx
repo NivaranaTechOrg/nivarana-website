@@ -46,15 +46,9 @@ export default function Portfolio() {
 
   const projects = [
     {
-      title: 'Personal Finance Tracker - Website',
-      desc: 'The platform allows users to register and log in securely, track their income and expenses, set monthly budgets, monitor transaction history, export financial reports as Excel or PDF, and gain visual insights via charts.',
-      image: finance_img,
-      link: '#',
-    },
-    {
-      title: 'Plug&Charge Zone - Android App',
-      desc: 'Plug&Charge Zone is an android application which shows EV charging stations on a map.Using this app user can book charging slots in advance. User can pay slot booking fees via wallet.',
-      image: ev_img,
+      title: 'WhoWear - Website',
+      desc: 'WhoWear is a modern, user-friendly online clothing website. It enables customers to explore stylish clothing, add items to cart, and purchase them seamlessly via a secure checkout process.',
+      image: whowear_img,
       link: '#',
     },
     {
@@ -64,9 +58,15 @@ export default function Portfolio() {
       link: '#',
     },
     {
-      title: 'WhoWear - Website',
-      desc: 'WhoWear is a modern, user-friendly online clothing website. It enables customers to explore stylish clothing, add items to cart, and purchase them seamlessly via a secure checkout process.',
-      image: whowear_img,
+      title: 'Personal Finance Tracker - Website',
+      desc: 'The platform allows users to register and log in securely, track their income and expenses, set monthly budgets, monitor transaction history, export financial reports as Excel or PDF, and gain visual insights via charts.',
+      image: finance_img,
+      link: '#',
+    },
+    {
+      title: 'Plug&Charge Zone - Android App',
+      desc: 'Plug&Charge Zone is an android application which shows EV charging stations on a map.Using this app user can book charging slots in advance. User can pay slot booking fees via wallet.',
+      image: ev_img,
       link: '#',
     },
     {
