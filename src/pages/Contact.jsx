@@ -8,7 +8,7 @@ export default function ContactUs() {
 
   const phoneNumbers = [
     { label: 'Primary Phone', value: '+91 8780681199' },
-    { label: 'Secondary Phone', value: '+91 7016686728' },
+    { label: 'Secondary Phone', value: '+91 8200535625' },
   ];
 
   return (
